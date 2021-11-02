@@ -1,0 +1,23 @@
+* {
+    border:solid
+}
+
+
+.headder{
+    background-color: brown;
+    display:flex;
+    justify-content:space-between ;
+}
+.description{
+    background-color: cyan;
+}
+.photo{
+    background-color: darkgreen;
+    display:flex;
+    justify-content: flex-end;
+}
+.games{
+    background-color: darkorchid;
+    display:flex;
+    justify-content: space-evenly;
+}
